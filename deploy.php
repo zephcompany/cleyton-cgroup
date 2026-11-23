@@ -11,7 +11,7 @@ ignore_user_abort(true);
 set_time_limit(120);
 
 const ZIP_URL  = 'https://codeload.github.com/zephcompany/cleyton-cgroup/zip/refs/heads/main';
-const IGNORAR  = ['README.md', '.gitignore', '.github'];   // ficam só no GitHub
+const IGNORAR  = ['README.md', '.gitignore', '.github', 'wordpress'];   // ficam só no GitHub
 const PRESERVAR = ['.htaccess', '.well-known', '.user.ini']; // nunca são apagados do servidor
 
 $site  = __DIR__;                      // public_html
