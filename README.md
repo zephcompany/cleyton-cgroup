@@ -6,7 +6,7 @@ Site estático (HTML + imagens).
 
 - `index.html` — a página inteira (estilos e scripts inclusos)
 - `assets/img/` — logo, símbolo, foto do Cleyton, favicon e imagem de compartilhamento
-- Contato: constante `WHATSAPP` no fim do `index.html` (DDI + DDD + número, só dígitos).
+- Contato: constante `WHATSAPP` no fim do `index.html` (DDI + DDD + número, só dígitos; hoje 5511998983743).
   Vazia, os botões abrem a mensagem direta do Instagram `@cgroupmidia_`; preenchida, abrem o WhatsApp e o botão flutuante aparece.
 
 ## Deploy
